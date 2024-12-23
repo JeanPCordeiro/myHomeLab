@@ -40,14 +40,14 @@
       {
          "module": "sensors/network.js",
          "config": {
-            "interface": "enp1s0",
+            "interface": "enp2s0",
             "max_points": 300
          }
       },
       {
          "module": "sensors/network.js",
          "config": {
-            "interface": "enp3s0",
+            "interface": "enp4s0",
             "max_points": 300
          }
       },
